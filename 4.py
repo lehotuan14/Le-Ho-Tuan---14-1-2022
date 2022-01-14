@@ -1,0 +1,6 @@
+a=input("tên và id sinh viên:")
+print(a)
+ckt=input("chuỗi kí tự của bạn là:")
+t=ckt.split(",")
+tuple1=tuple(t)
+print(tuple1)
